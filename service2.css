@@ -1,0 +1,17 @@
+ .u-section-1 {
+  min-height: 640px;
+}
+
+.u-section-1 .u-shortcode-1 {
+  min-height: 640px;
+  height: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-shortcode-1 {
+    min-height: 628px;
+    margin-bottom: 12px;
+  }
+}

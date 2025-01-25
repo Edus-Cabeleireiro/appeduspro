@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F404","\u002Fapps\u002F[slug]","\u002Fapps\u002Fcategories\u002F[category]","\u002Fworkflows\u002F[workflow]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
